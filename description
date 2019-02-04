@@ -1,0 +1,19 @@
+"""
+If you are basing the project on a data set, give the data set you have found or the kind of data set you are looking for. If you are thinking of building something similar to an existing data-backed site, linclude which site(s) you are looking at.
+
+If you are building a social site, describe what site is most similar and what features you are thinking about building. Pay particular attendion to how you will avoid scope creep.
+
+If you are building a 'public facing" web site for an organization, tell us the kind of site you are looking to build andwhat kind of user-entered material you hope to have on your site.
+"""
+
+"""
+My Project:
+
+I want to create a website similar to Yelp, but where users can input movie reviews (5 stars) for different films. 
+If a movie does not currently exist in the database, then the movie will be added along with the director.
+A collection of movie reviews with stars and optional descriptions will be left. When movies already exist in the database, 
+then the movie review will get added along with the rest. I also plan to create an "average review" to show as well.
+
+I don't have much knowledge yet as to the one-to-many and many-to-one relationships and how to build the django applications
+other than what we've copied in exercises. I want my application to end up looking like a remedial iMDB but in blue. :)
+"""
